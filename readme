@@ -5,3 +5,4 @@ Many people say Git is better than SVN, is it right?
 add 3 + 3
 stash command
 dev work is done
+push to remote dev branch
